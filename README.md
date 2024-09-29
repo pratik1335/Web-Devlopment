@@ -1,1 +1,1 @@
-# Web-Devlopment
+# Projects using HTML, CS and JS
